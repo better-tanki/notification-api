@@ -1,0 +1,7 @@
+{
+	"errors": {
+		"sync": true,
+		"promise": true,
+		"critical": true
+	}
+}
